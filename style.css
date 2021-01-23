@@ -1,8 +1,19 @@
-<style>
+
      
-     body {background-color: rgb(40, 117, 4);}
-        p {color: white;}
-    h1 {color: rgb(7, 235, 252) }
-    h2,h3 {color:  rgb(7, 235, 252)  }
+     .ht {
+         margin: 0px;
+         background-image: linear-gradient(rgb(108, 108, 255), rgb(112, 236, 112));
+        }
+        p {
+            color: rgb(20, 18, 18);
+        }
+    h1 {
+        color: rgb(7, 235, 252
+        ) }
+    h2,h3 {
+        color:  #07ebfc  
+    }
     #lista {color: yellow}
-    </style>
+    img:hover {
+        width: 500px;
+    }
