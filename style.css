@@ -1,6 +1,7 @@
-<style>
+
      
      .ht {
+         margin: 0px;
          background-image: linear-gradient(rgb(108, 108, 255), rgb(112, 236, 112));
         }
         p {
@@ -13,5 +14,3 @@
         color:  #07ebfc  
     }
     #lista {color: yellow}
-    
-</style>
